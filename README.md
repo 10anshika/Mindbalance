@@ -1,4 +1,4 @@
-# MindBalance v2 🧘
+# MindBalance🧘
 ### A Data-Driven Model Integrating Indian Knowledge Systems and Psychological Variables for Student Stress Prediction
 *Data Science Undergraduation | 3rd year | IKS Integration Project*
 
